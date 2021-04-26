@@ -5,13 +5,15 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { DefaultModule } from './layouts/default/default.module';
 import { LoginModule } from './layouts/login/login.module';
+import { SelectComponent } from './modules/select/select.component';
 
 
 
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    SelectComponent
   ],
   imports: [
     BrowserModule,
