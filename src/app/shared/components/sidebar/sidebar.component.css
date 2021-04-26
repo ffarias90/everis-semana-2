@@ -1,0 +1,70 @@
+.left {
+    /* width: 300px;
+    height: 100vh; */
+    height: 100vh;
+    background: #1B0088;
+    color: white;
+    text-align: center;
+    margin-top: -16px
+}
+
+.left h1 {
+    font-size: 31px;
+    line-height: 90px;
+}
+
+.left ul {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.left ul li {
+    list-style: none;
+    padding: 15px;
+}
+
+.left p {
+    font-size: 14px;
+    line-height: 30px;
+}
+
+.elipse {
+    background: transparent url("../../../../assets/img/perfil.png") no-repeat padding-box left;
+    border-top: 1px solid white;
+    border-bottom: 1px solid white;
+    padding: 2px;
+}
+
+.left h2 {
+    font-size: 16px;
+    text-align: start;
+    /* margin-left: 35px; */
+    background: transparent url("../../../../assets/img/info.svg") no-repeat right;
+}
+
+.info {
+    border-bottom: 1px solid rgba(212, 6, 6, 0.842);
+}
+
+.left a {
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    font-size: 14px;
+}
+
+.report {
+    display: flex;
+    flex-direction: column;
+    background: transparent url("../../../../assets/img/report.svg") no-repeat left;
+    margin-left: 20px;
+    border-bottom: 2px solid #00AFA9;
+}
+
+ul li .logout {
+    margin-bottom: 10px;
+    margin-top: 40vh;
+    display: flex;
+    flex-direction: column;
+    background: transparent url("../../../../assets/img/logout.svg") no-repeat padding-box right;
+}

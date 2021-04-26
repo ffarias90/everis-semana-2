@@ -1,0 +1,144 @@
+.content-right {
+    box-shadow: 0px 3px 6px #00000059;
+    margin-left: 20px;
+    padding: 20px;
+    width: 800px;
+    height: 510px;
+}
+
+.content-right h2 {
+    font-size: 22px;
+    color: #1B0088;
+    padding-bottom: 20px;
+}
+
+.content-right .report-select {
+    display: flex;
+}
+
+.content-right .report-select .select-btn {
+    color: #333333;
+    font-size: 11px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #707070;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    border-radius: 5px;
+    width: 159px;
+}
+
+.go-btn {
+    color: white;
+    background-color: #E9124C;
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-left: 20px;
+    box-shadow: 0px 3px 6px #00000029;
+    width: 120px;
+}
+
+.content-right .form {
+    padding: 10px;
+    border: 1px solid #BFBFBF;
+    margin-top: 20px;
+    height: 335px;
+}
+
+.content-right .form h3 {
+    text-align: left;
+    font: normal normal normal 18px/26px Arial Black;
+    letter-spacing: 0px;
+    color: #0AAFA9;
+    opacity: 1;
+    margin-bottom: 20px;
+}
+
+.content-right .form .calendar-btn {
+    color: #333333;
+    font-size: 11px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #707070;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+    width: 178px;
+    margin-bottom: 20px;
+    background: transparent url("/img/calendario.png") no-repeat center right;
+}
+
+.content-right .form .param1-btn {
+    color: #333333;
+    font-size: 11px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #707070;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+    width: 178px;
+    margin-right: 40px;
+}
+
+.content-right .form .upload-btn {
+    color: #333333;
+    font-size: 11px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #707070;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+    width: 178px;
+    background: transparent url("/img/btn-upload.png") no-repeat center right;
+}
+
+.content-right .form .params {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.content-right .form .bottom-btn {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    height: 100px;
+    margin-right: 20px;
+}
+
+.report-btn {
+    color: #333333;
+    display: flex;
+    justify-content: center;
+    border: 1px solid #0AAFA9;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+    width: 120px;
+    margin-left: 20px;
+    text-align: center;
+    font: normal normal normal 12px/17px Arial Black;
+    letter-spacing: 0px;
+    color: #0AAFA9;
+    opacity: 1;
+}
